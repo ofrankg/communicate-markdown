@@ -15,6 +15,6 @@ int main()
 ```
 
 ### Task List
-- [] First Task
-- [] Second Task
-- [] Third Task
+- [ ] First Task
+- [ ] Second Task
+- [ ] Third Task
